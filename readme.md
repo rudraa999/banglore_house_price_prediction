@@ -31,6 +31,7 @@ Real estate price prediction is a complex problem influenced by multiple factors
   - balcony
   - price
 - Total rows: ~10,000+
+![dataset Screenshot](images/dataset.png)
 
 ## 🛠️ Tech Stack
 
