@@ -34,8 +34,6 @@ Real estate price prediction is a complex problem influenced by multiple factors
 
 ## 🛠️ Tech Stack
 
-## 🛠️ Tech Stack
-
 - **Programming:** Python  
 - **Libraries:** Pandas, NumPy, Scikit-learn  
 - **Backend:** Flask  
